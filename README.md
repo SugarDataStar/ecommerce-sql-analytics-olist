@@ -4,6 +4,38 @@ SQL analytics project on the Brazilian e-commerce **Olist dataset**.
 Includes queries to analyze **orders, customers, products, payments, and reviews**.  
 Covers KPIs (orders, revenue, delivery), **marketing funnel analysis**, **RFM segmentation**, and **cohort retention**.  
 
+
+## 1. Monthly Orders & Revenue
+![Monthly Orders & Revenue](screenshots/monthly_orders_revenue.png.png)
+
+---
+
+## 2. Average Delivery Time by Month (Delivered Orders Only)
+![Average Delivery Time by Month](screenshots/Average%20Delivery%20Time%20by%20Month%20(delivered%20orders%20only).png)
+
+---
+
+## 3. On-time vs Late Delivery by Month
+![On-time vs Late Delivery](screenshots/On-time%20vs%20Late%20Delivery%20by%20Month.png)
+
+---
+
+## 4. Orders & Revenue by State
+![Orders & Revenue by State](screenshots/Orders%20&%20Revenue%20by%20State.png)
+
+---
+
+## 5. Average Order Value (AOV) by State
+![Average Order Value by State](screenshots/Average%20Order%20Value%20(AOV)%20by%20State.png)
+
+---
+
+## 6. Payment Method Mix (Volume & Revenue)
+![Payment Method Mix](screenshots/Payment%20Method%20Mix%20(volume%20&%20revenue).png)
+
+
+
+
 ---
 
 ## 📂 Project Structure  
